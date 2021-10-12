@@ -1,0 +1,7 @@
+# Project exclude paths
+/out/
+.idea
+/.iml
+/tracker.iml
+/job4j_tracker.iml
+/target/
